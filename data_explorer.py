@@ -32,6 +32,7 @@ rarities = set()
 expansions = set()
 series = set()
 packs = set()
+numbers = set()
 
 data = load_json("pocket.json")
 
@@ -44,7 +45,7 @@ print(expansions)
 print(series)
 print(packs)
 
-output_file = "pocket.json"
+output_file = "pocket_rip.json"
 with open(output_file, "w") as file:
     json.dump(data, file, indent=4)
 

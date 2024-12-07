@@ -20,7 +20,7 @@
   {
     "id": "A1-3",
     "name": "Genetic Apex: Pikachu Pack",
-    "expansionId": "A2",
+    "expansionId": "A1",
     "packImages": {
       "packLogo": "https://archives.bulbagarden.net/media/upload/a/ac/A1_Logo_Pikachu_EN.png",
       "packImage": "https://archives.bulbagarden.net/media/upload/2/24/A1_Booster_Pikachu_EN.png"
@@ -42,6 +42,33 @@
     "packImages": {
       "packLogo": "https://archives.bulbagarden.net/media/upload/6/63/PA_Logo_Volume_2_EN.png",
       "packImage": "https://archives.bulbagarden.net/media/upload/3/36/Promo_Pack_A_Series_Vol._2.png"
+    }
+  },
+  {
+    "id": "M",
+    "name": "Missions",
+    "expansionId": "P-A",
+    "packImages": {
+      "packLogo": "https://archives.bulbagarden.net/media/upload/7/70/Pokémon_Trading_Card_Game_Pocket_logo.png",
+      "packImage": "https://archives.bulbagarden.net/media/upload/7/70/Pokémon_Trading_Card_Game_Pocket_logo.png"
+    }
+  },
+  {
+    "id": "Shop",
+    "name": "Shop",
+    "expansionId": "P-A",
+    "packImages": {
+      "packLogo": "https://archives.bulbagarden.net/media/upload/7/70/Pokémon_Trading_Card_Game_Pocket_logo.png",
+      "packImage": "https://archives.bulbagarden.net/media/upload/7/70/Pokémon_Trading_Card_Game_Pocket_logo.png"
+    }
+  },
+  {
+    "id": "WP",
+    "name": "Wonder Pick",
+    "expansionId": "P-A",
+    "packImages": {
+      "packLogo": "https://archives.bulbagarden.net/media/upload/7/70/Pokémon_Trading_Card_Game_Pocket_logo.png",
+      "packImage": "https://archives.bulbagarden.net/media/upload/7/70/Pokémon_Trading_Card_Game_Pocket_logo.png"
     }
   }
 ]

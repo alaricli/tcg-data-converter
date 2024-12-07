@@ -1,0 +1,28 @@
+[
+  {
+    "id": "A1",
+    "series": "Pocket",
+    "name": "Genetic Apex",
+    "expansionCode": "A1",
+    "expansionImages": {
+      "symbol": "https://archives.bulbagarden.net/media/upload/7/77/A1_Set_Logo_EN.png",
+      "logo": "https://archives.bulbagarden.net/media/upload/7/77/A1_Set_Logo_EN.png"
+    },
+    "printedTotal": 286,
+    "total": 286,
+    "releaseDate": "2024/10/30"
+  },
+  {
+    "id": "P-A",
+    "series": "Pocket",
+    "name": "Promo-A",
+    "expansionCode": "P-A",
+    "expansionImages": {
+      "symbol": "https://archives.bulbagarden.net/media/upload/4/44/PA_Set_Logo_EN.png",
+      "logo": "https://archives.bulbagarden.net/media/upload/4/44/PA_Set_Logo_EN.png"
+    },
+    "printedTotal": 23,
+    "total": 23,
+    "releaseDate": null
+  }
+]
