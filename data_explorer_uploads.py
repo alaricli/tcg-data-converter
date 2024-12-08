@@ -17,8 +17,14 @@ numbers = set()
 data = load_json("upload_cards2.json")
 
 for card in data:
-    if len(card["foundInPacks"]) == 0:
-        print(card["id"])
+    if len(card["energyTypes"]) > 0:
+        card.update(
+            {
+                "mainType": card["energyTypes"][0]
+            }
+        )
+    else:
+        card.update("mainType": "{Trainer")
 
 # output_file = "upload_cards2.json"
 # with open(output_file, "w") as file:
